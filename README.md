@@ -31,6 +31,7 @@ Key Features
 2. Seamless integration with cloud-native tools.
 3. Automation using Apache Airflow DAGs.
 
+Check the dashboard: https://lookerstudio.google.com/reporting/ded622a9-a1e9-4047-bd4b-d9a841ab3ef4
    ![image](https://github.com/user-attachments/assets/f80e676f-9d7b-4980-9e9e-14c63aa6851b)
 
    ![image](https://github.com/user-attachments/assets/0a833111-1308-42df-916b-4c51f3bd3e1f)
