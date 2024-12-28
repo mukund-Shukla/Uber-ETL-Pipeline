@@ -12,7 +12,7 @@ Data Transformation:
 1. Applied transformations on the raw data to align with the predefined data model using Python.
 
 Data Loading:
-1. Transformed data is loaded into Google BigQuery for analysis.
+1. Transformed data is loaded into Google BigQuery for analysis using Airflow.
 
 Data Visualization:
 1. SQL queries are performed on BigQuery for analytical insights.
