@@ -2,8 +2,8 @@
 ETL Pipeline with Apache Airflow on Google Cloud Composer
 This project demonstrates the implementation of an end-to-end ETL pipeline on Google Cloud Platform using Apache Airflow and Google Cloud Composer.
 
-**Workflow Overview
-**
+# Workflow Overview
+
 **Data Ingestion:
 **
 1. Raw data is uploaded to a public URL.
